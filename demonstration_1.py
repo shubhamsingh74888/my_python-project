@@ -1,1 +1,1 @@
-echo "hello work"
+print("wassuop bhiussy")
