@@ -1,1 +1,1 @@
-print("wassup buddy
+print("wassup budd
